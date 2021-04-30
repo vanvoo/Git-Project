@@ -1,1 +1,2 @@
 Adding from feature2
+Added some changes in feature1 branch.
