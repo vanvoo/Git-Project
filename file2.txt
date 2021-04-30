@@ -1,1 +1,2 @@
 Adding from feature1
+Added from hotfix branch.
